@@ -14,7 +14,6 @@ Recommender systems can be classified into Two types:
 
 Here I'm going to implement Content Based Filtering
 
-**Dataset**
-
+**Dataset :**
 The dataset used in this project consists of two files: db_5000_credits.txt and db_5000_movies.txt. The first file contains information on the cast and crew of movies, while the second file contains information on the movies themselves including their titles, release dates, and genres.
 
